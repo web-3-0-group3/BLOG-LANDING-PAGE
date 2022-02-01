@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Overpass', sans-serif;
+}
+.footer {
+    border-top-right-radius: 3rem;
+    height: auto;
+    background: hsl(237, 17%, 21%);
+}
