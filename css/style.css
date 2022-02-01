@@ -6,8 +6,21 @@
 body{
     font-family: 'Overpass', sans-serif;
 }
+.thirdpart{
+    background-color: hsl(237, 17%, 21%);
+    height: 400px;
+    border-bottom-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+}
+.cap{
+    position: relative;
+    margin-top: -6rem;
+
+}
 .footer {
     border-top-right-radius: 3rem;
     height: auto;
     background: hsl(237, 17%, 21%);
 }
+
+
