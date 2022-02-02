@@ -15,12 +15,31 @@ body{
 .cap{
     position: relative;
     margin-top: -6rem;
+}
+  
 
+.third{
+   background-position:left;
+   background-repeat: no-repeat;
+   background-size: cover;
+   min-height: 400px;
+
+}
+h6{
+    margin-top: 4px;
+}
+.paw{
+    padding-top: 3rem;
+}
+
+@media screen and (min-width: 756px) {
+    .container {
+      width: 300px;
+    }
+  
 }
 .footer {
     border-top-right-radius: 3rem;
     height: auto;
     background: hsl(237, 17%, 21%);
 }
-
-
