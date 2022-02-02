@@ -6,6 +6,26 @@
 body{
     font-family: 'Overpass', sans-serif;
 }
+header{
+    background: hsl(13, 100%, 72%);
+    border-bottom-left-radius: 3rem;
+}
+div ul a li:hover{
+    background: white;
+    color: hsl(353, 100%, 62%);
+    padding: 10px 2rem;
+    border: 2rem;
+    border-radius: 2rem;
+}
+.link-light{
+    padding: 10px;
+}
+.link-light:hover{
+    background: white;
+    color:hsl(13, 100%, 72%);
+    padding: 1rem;
+    border-radius: 2rem;
+}
 .footer {
     border-top-right-radius: 3rem;
     height: auto;
