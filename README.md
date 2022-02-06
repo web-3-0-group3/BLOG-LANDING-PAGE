@@ -13,4 +13,7 @@ This website was be created using
 - CSS
 And there are four contributors that worked on  it: 
 
+Damilola
+- I worked on the header page
+- I used flex display to put the page in order.
 
