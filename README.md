@@ -18,5 +18,5 @@ Damilola
 - I used flex display to put the page in order.
 
 Toluwani
--I worked on the "Designed for the Future" section of the team project.
--To achieve responsiveness, I used the Bootstrap’s grid system and a css media query of 991px in max-width.
+- I worked on the "Designed for the Future" section of the team project.
+- To achieve responsiveness, I used the Bootstrap’s grid system and a css media query of 991px in max-width.
